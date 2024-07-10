@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="card text-center">
+    <div class="card-body">
+        <h1>Welcome to Poll Mall!</h1>
+    <p>Hope you are having a Nice day</p>
+    <a class="btn btn-dark" href="{% url 'polls:index'%}">View available Polls</a>
+    </div>
+</div>
+{% endblock %}
