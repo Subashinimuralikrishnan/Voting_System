@@ -1,7 +1,13 @@
 Demonstration:
+It's a Full Stack Web Dev Project
+
 The Online Voting System is created with the use of HTML,Bootstrap with "DJANGO"-Python
-You can watch the video demo in the file uploaded above.
-To run on your device download it in a folder,install python and django,then cd to the folder,give pyhton manage.py runserver go to the localhost 8000, and you can successfully run it:)
+
+To run on your device 
+1.Download it in a folder,
+2.install python and django,
+3.then cd to the folder,
+4.give python manage.py runserver go to the localhost 8000, and you can successfully run it:)
 FEEL FREE to look into the DEMO:
 ![image](https://github.com/Subashinimuralikrishnan/Voting_System/assets/145862286/6c301385-277f-4e2f-b363-de7380fe0c1f)
 ![image](https://github.com/Subashinimuralikrishnan/Voting_System/assets/145862286/5a127d01-d81d-4c2f-b429-2ee32a695779)
