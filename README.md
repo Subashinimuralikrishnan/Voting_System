@@ -6,7 +6,7 @@ The Online Voting System is created with the use of HTML with "DJANGO"-Python
 To run on your device 
 1.Download it in a folder,
 2.install python and django,
-3.then cd to the folder,
+3.then cd to the folder/pollproject,
 4.give python manage.py runserver go to the localhost 8000, and you can successfully run it:)
 FEEL FREE to look into the DEMO:
 ![image](https://github.com/Subashinimuralikrishnan/Voting_System/assets/145862286/6c301385-277f-4e2f-b363-de7380fe0c1f)
